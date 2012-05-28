@@ -1,0 +1,2 @@
+PrettyJSON.codaplugin
+=====================

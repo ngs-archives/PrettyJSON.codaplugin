@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>11D50</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>CodaScriptPlugIn</string>
+	<key>CFBundleIconFile</key>
+	<string>plug-in</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.panic.CodaScriptPlugIn</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1.1</string>
+	<key>CodaPlugInMinimumAPIVersion</key>
+	<string>5</string>
+	<key>DTCompiler</key>
+	<string></string>
+	<key>DTPlatformBuild</key>
+	<string>4D502</string>
+	<key>DTPlatformVersion</key>
+	<string>GM</string>
+	<key>DTSDKBuild</key>
+	<string>10K549</string>
+	<key>DTSDKName</key>
+	<string>macosx10.6</string>
+	<key>DTXcode</key>
+	<string>0421</string>
+	<key>DTXcodeBuild</key>
+	<string>4D502</string>
+	<key>NSPrincipalClass</key>
+	<string>CodaScriptPlugIn</string>
+	<key>commands</key>
+	<array>
+		<dict>
+			<key>fallbackInput</key>
+			<string>none</string>
+			<key>input</key>
+			<string>document</string>
+			<key>keyEquivalentConflict</key>
+			<false/>
+			<key>name</key>
+			<string>Pretty JSON</string>
+			<key>output</key>
+			<string>replaceDocument</string>
+			<key>script</key>
+			<string>prettyjson.pl</string>
+			<key>uuid</key>
+			<string>CA4085CA-8C9A-4A59-B0EF-B3ACF6150382</string>
+		</dict>
+	</array>
+</dict>
+</plist>
